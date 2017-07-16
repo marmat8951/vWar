@@ -12,7 +12,7 @@ N'hésitez pas à cnsulter le fichier licences.md
 
 ## Comment modifier le projet?
   * Commencez par un *git clone*
-  * Dans Eclipse faites file>New>Java Project
+  * Dans Eclipse faites file > New > Java Project
   * Décochez la case repertoire par défaut et avec parcourrir allez cherché le dossier clonné. Cliquez sur OK
   * Maintenant il nous faut configurer notre buildPath mais avant cela il faut installer le plugin e(fx)clipse ajoutant des fonctionnalitées pour les interfaces JavaFX dans Eclipse. https://marketplace.eclipse.org/content/efxclipse
   * Allez jusqu'au bout de l'installation
