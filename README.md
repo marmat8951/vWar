@@ -4,6 +4,11 @@ Le projet est enfin la!
 
 N'hésitez pas à cnsulter le fichier licences.md
 
+## Requirments
+
+- Eclipse
+- Oracle JDK (Attention: OpenJDK ne possède pas directement les librairies JavaFX et vous imposera de les ajouter à part. Le moyen le plus simple et d'utiliser le JDK d'oracle)
+- Plugin e(fx)clipse pour Eclipse
 
 ## Comment modifier le projet?
   * Commencez par un *git clone*
@@ -14,7 +19,7 @@ N'hésitez pas à cnsulter le fichier licences.md
   * Une fois fini, clic droit sur le projet puis allez dans buildPath puis Configure BuildPath
   * Allez dans Add library et ajoutez le Java FX SDK et JUnit 4
   
- - Vous êtes pret a contribuer!
+**Vous êtes pret a contribuer!**
  
 /!\ Utilisateurs Windows:
 Pensez a bien verifier que le charset que vous utilisez est bien mis sur UTF-8, pour cela: Windows > Preferences   Déroulez le menu général et décender à Workspace. En bas il y a un choix de l'encodage, prenez UTF-8 
